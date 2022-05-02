@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Roger Medley
-- 👀 I’m interested in Cloud Computing, DevOps, etc.
+- 👋 Hi, I’m Roger A. Medley
+- 👀 I’m interested in Cloud Computing, DevOps, and Cyber Security.
 - 🌱 I’m currently learning AWS Cloud and Azure AZ 900
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me roge24@yahoo.com or https://www.linkedin.com/in/roger-a-medley/
