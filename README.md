@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Roger A. Medley
+- I have extensive experience in IT Support with Windows OS and Office 365.
 - 👀 I’m interested in Cloud Computing, DevOps, and Cyber Security.
 - 🌱 I’m currently learning AWS Cloud and Azure AZ 900
 - 💞️ I’m looking to collaborate on projects
